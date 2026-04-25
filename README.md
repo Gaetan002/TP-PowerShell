@@ -16,10 +16,10 @@ On voit donc que le script est exécuté, et affiche bien « Hello Word » con
 ## 1er script
 
 Ce script, contenu dans le fichier « script1.ps1 » (toujours dans « C:\Scripts PowerShell »), contient les principales étapes de script suivantes :<br>
-    • créer un dossier « temp » (dans le répertoire actuel) ;<br>
-    • se déplacer dans le dossier « temp » créé ;<br>
-    • créer 200 fichiers vides nommés de 1.log à 200.log contenant la chaîne de caractères "Voici le fichier <numéro>.log", grâce à une boucle for;<br>
-    • revenir au répertoire initial, c’est-à-dire « C:\Scripts PowerShell ».
+&nbsp;&nbsp;&nbsp;&nbsp;• créer un dossier « temp » (dans le répertoire actuel) ;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• se déplacer dans le dossier « temp » créé ;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• créer 200 fichiers vides nommés de 1.log à 200.log contenant la chaîne de caractères "Voici le fichier <numéro>.log", grâce à une boucle for;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• revenir au répertoire initial, c’est-à-dire « C:\Scripts PowerShell ».
 
 ## 2e script
 
