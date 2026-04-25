@@ -52,7 +52,7 @@ Ce script, contenu dans le fichier « script4.ps1 », contient les principales
 
 ## 5e script
 
-Pour ce 5e script, le fichier « utilisateurs a creer.txt » doit contenir plusieurs utilisateurs, qui, pour chaque ligne, contient : « <nom d’un utilisateur>:<type de compte>; ».<br>
+Pour ce 5e script, le fichier « utilisateurs a creer.txt » doit contenir plusieurs utilisateurs, qui, pour chaque ligne, contient : « <nom_utilisateur>:<type_de_compte>; ».<br>
 Il y a deux types de compte : « adm » signifiant qu’il s’agit d’un compte avec des droits administrateurs et donc faisant partie du groupe Administrateurs, et « usr » signifiant qu’il s’agit d’un compte sans les droits administrateurs et donc faisant partie du groupe Utilisateurs.<br>
 Ce 5e script, contenu dans le fichier « script5.ps1 », contient les principales étapes de script suivantes :<br>
 &nbsp;&nbsp;&nbsp;&nbsp;• récupération du fichier « utilisateurs a creer.txt » ;<br>
