@@ -4,12 +4,12 @@
 
 Pour que nos scripts aient l’autorisation de s’exécuter, il faut aller dans les paramètres Windows (pour le cas de Windows 11 25H2), dans Système → Avancé, puis dans « Terminal », on déroule l’option « PowerShell » et on active l’option affichée :
 
-
+<img width="1519" height="360" alt="image" src="https://github.com/user-attachments/assets/c14061d5-139e-4d2e-a0fa-65b8d34e3bdb" />
 
 Pour vérifier l’exécution, on va par exemple créer un dossier « Scripts PowerShell » dans « C:\ » (dossier qu’on va utiliser pour tous les scripts), puis créer un fichier « script de vérification.ps1 », où l’on va ajouter « Write-Host "Hello Word" » dans ce dernier, à l’aide de l’application Bloc-notes ou Notepad++ par exemple.
 Maintenant, on lance l’application « Windows PowerShell » et on va aller lancer ce script en entrant « $ "<chemin du fichier" », ce qui donne ici :
 
-
+<img width="1034" height="161" alt="image" src="https://github.com/user-attachments/assets/d98c2732-af14-418c-88a3-508d342bb4c2" />
 
 On voit donc que le script est exécuté, et affiche bien « Hello Word » conformément à la commande « Write-Host "Hello Word" ».
 
